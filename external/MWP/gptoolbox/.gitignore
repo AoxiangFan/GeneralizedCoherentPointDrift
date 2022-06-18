@@ -1,0 +1,16 @@
+# use glob syntax.
+syntax: glob
+*.o
+*.*.swp
+*.a
+*~
+.DS_Store
+*.mexmaci64
+*.mexw64
+*.mexa64
+*.cache.mat
+quat/*
+quat.zip
+mex/build*
+*.*.swo
+mex/external
